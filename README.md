@@ -24,37 +24,37 @@
 
 1. 项目创建
 
-   <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220825193754310.png" alt="image-20220825193754310" style="zoom:80%;" />
+   <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208252035825.png" alt="image-20220825193754310" style="zoom:80%;" />
 
 2. 确定外层大的`LinearLayout`布局
 
-   ![image-20220825193917301](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220825193917301.png)
+   ![image-20220825193917301](https://expicture.oss-cn-beijing.aliyuncs.com/img/202208252035826.png)
 
 3. 设置背景色与垂直方向
 
-   <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220825194029777.png" alt="image-20220825194029777" style="zoom:80%;" />
+   <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208252035827.png" alt="image-20220825194029777" style="zoom:80%;" />
 
 4. 构建第一个组，设置颜色，垂直方向与高度
 
-   <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220825194226812.png" alt="image-20220825194226812" style="zoom:80%;" />
+   <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208252035828.png" alt="image-20220825194226812" style="zoom:80%;" />
 
 5. 创建组内图标，设置宽高，垂直居中，图标素材
 
-   <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220825195246910.png" alt="image-20220825195246910" style="zoom:80%;" />
+   <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208252035829.png" alt="image-20220825195246910" style="zoom:80%;" />
 
 6. 设置右箭头
 
-   <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220825201011404.png" alt="image-20220825201011404" style="zoom:80%;" />
+   <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208252035830.png" alt="image-20220825201011404" style="zoom:80%;" />
 
 7. 之后的分组都如法炮制，这里我使用1dp的`IamgeView`表示分割线
 
-   <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220825202639754.png" alt="image-20220825202639754" style="zoom:80%;" />
+   <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208252035831.png" alt="image-20220825202639754" style="zoom:80%;" />
 
 ## 三、程序运行结果
 
 列出程序的最终运行结果及截图。
 
-<img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220825202745191.png" alt="image-20220825202745191" style="zoom:80%;" />
+<img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208252035832.png" alt="image-20220825202745191" style="zoom:80%;" />
 
 ## 四、问题总结与体会
 
